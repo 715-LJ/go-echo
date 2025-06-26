@@ -1,2 +1,2 @@
 # go-echo
-go-zero
+go-gin
